@@ -1,0 +1,103 @@
+ch-1 introduction:-
+
+Newtons laws pg. 16
+conservation laws for a particle pg. 20
+system of particles pg.23
+CM and conservation laws pg. 24
+Note on conservation theorem of linear and angular momentum of system of particles pg. 26
+Relation b/w angular momentum and angular mommentum about CM pg. 26
+conservation of energy(KE and PE) pg. 27
+
+Examples pg 30
+1) Train
+2)Atwood machine
+3)conservative force and work
+4)Collision of 2 masses, CM,COM
+Central force pg. 32
+5) particle moving under central force, Areal Velocity pg. 32
+6)simple Harmonic oscillator pg. 33
+
+Questions pg. 34-40
+
+Ch-2 Lagrangian Dynamics pg. 41
+
+Cartesian,cylindrical,spherical coordinate system pg. 41-42
+Degree of freedom(Defination,Example) pg. 42
+Constraints pg. 43
+Holonomic constraints pg. 43
+Non Holonomic constrainsts pg. 44
+some examples of Holo and non holo... pg. 44-45
+force of constraints pg. 45
+Difficulties introduced by the constraints and their removal pg. 46
+
+Examples pg.46
+1)number of Degree of freedom pg. 46
+2)Constraint is holonomic/non holonommic pg. 47
+3)******Constraints in rigid body are conserved pg. 48************
+
+Generalized coordinate pg. 48-49
+principle of virtual work pg. 49
+D'Alembert's principle pg. 50
+
+Examples pg.50-52
+1) 2 heavy particals connected with string on cylinder using Virtual work pg. 50-51
+2) pully-wedge system using D,alembert's principle pg. 51
+
+Lagrange's eqn from D'alembert's principle pg. 52-55
+
+Examples
+1) newtons eqn of motion using lagranges eqn pg. 55
+2)simple pendulum using lagrangian pg. 56
+3)Atwoods machine using lagrangian pg. 57
+4) continue 3) + acceleration of pulley disc pg. 58
+5) compound pendulum using using lagrangian pg. 58
+6) radial and tengential component of force using polar coordinates and lagrangian eqn pg. 59
+7) LC circuit using lagrangian pg. 60
+8) Motion of particle under central force pg. 61
+
+Lagranges eqn in precence of non-conservative forces (theory) pg. 61-63
+lagrangian for EM forces (generalized potential) pg. 63-65
+hamilton principle pg. 65-67
+***********superiority of lagrangian mechanics over newtonian approach pg. 67***********
+Gauge invariance of the lagrangian pg. 67
+*****symmetry properties of space and time( homogeneous and isotropic) and conservation laws (COLM, COAM,COE) pg. 69*****
+****Lagranges invariance under Galilean transformation pg. 71
+
+Examples
+1) motion of particle under gravity using lagrangian pg. 73
+2) curve in gravitational field using lagrangian pg. 73-74
+3)wedge-block on smooth surface using lagrangian pg. 74
+4)a particle moving on a plane in the force field (polar coordinate) pg. 75
+5)cylinder rolling on inclined plane using lagrangian pg. 75
+6)bead sliding on smooth rod mr:=mrw^2 -mgsin(wt) pg.76
+7)pendulum attached with block pg. 76
+8)spherical pendulum using lagrangian pg. 77
+9)particle in plane under central force f=1/r^2(1-(r.^2-2r:r)/c^2) using lagrangian pg. 78
+
+QUESTIONS PG.78-88
+
+ch-3 hamiltonian dynamics
+Generalized momentum and cyclic coordinates pg. 89
+COLM pg. 91
+COAM pg. 92
+significance of Translation and rotational cyclic coordinates-symmetry properties pg. 94
+************Hamiltonian function H & COE : Jacobi's integral pg. 94
+COE-physical significance pg. 95
+**********Hamilton's Eqn pg. 96**********
+**********Hamilton's eqn in different coordinate systems (all 4 )pg. 98**********
+
+Examples in hamiltonian Dynamics pg. 100
+1)harmonic oscillator
+2)Motion of a particle in a central force field pg.101
+3)charged particle moving in an EM Field pg. 102
+4)compound pendulum pg. 103
+5)2D Harmonic oscillator(cartesian & polar) 103-104
+1)Hamiltonian of Simple pendulum pg. 104
+2)ideal spring-mass using hamilton pg. 105
+3)H=p^2/2m*e^(-rt)+1/2(mw^2x^2e^(rt)) leads to x:+rx.+w^2x=0 Damped harmonic oscillator pg. 105
+4) projectile motion using hamilton pg. 106
+5)particle moving on surface of cylinder using hamilton pg. 107
+
+QUEATIONS PG. 110-116
+
+reduce mass examples pg. 119
